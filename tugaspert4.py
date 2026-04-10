@@ -1,4 +1,4 @@
-#Tugas konversi hari
+#TUGAS KONVERSI HARI
 print("=== Tugas konversi hari ===")
 
 #input
@@ -18,7 +18,7 @@ print("Hasil konversi", TotalHari, "hari adalah,", Tahun, "Tahun,", Bulan, "Bula
 print(" ")
 
 
-#Tugas fizzbuzz
+#TUGAS FIZZBUZZ
 print("=== Tugas Fizzbuzz ===")
 
 #input dan output
